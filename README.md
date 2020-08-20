@@ -3,7 +3,7 @@
 Com o WhatsApp Speed Changer você pode acelerar o seu aúdio do whatsapp 
 em até 5 vezes, com apenas um clique.
 
-Eu fiz esse víde com base em um vídeo do Programador BR, que explica
+Eu fiz esse vídeo com base em um vídeo do Programador BR, que explica
 como fazer extensões para o Chrome, quais arquivos precisam, e o que
 esses arquivos tem que ter dentro, e como instalar sua própia extensão.
 
